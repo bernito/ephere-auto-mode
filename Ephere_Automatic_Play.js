@@ -11,6 +11,14 @@
 
 (function() {
     'use strict';
+    
+    let playButtonSelector = '.css-1vzxuti';
+    let myNameSelector = '.css-841hfn';
+    let rivalNameSelector = '.css-19jh306'
+    let matchResultSelector = '.css-1bonmw0';
+    let finalScoreSelector = '.css-sixl46';
+    let checkboxSelector = '.autoPlay';
+    let topBarLeftSelector = '.css-1y3ojfh';
 
     let exhausted = false;
 
@@ -48,14 +56,6 @@
             }
         };
     })();
-
-    let playButtonSelector = '.css-1vzxuti';
-    let myNameSelector = '.css-841hfn';
-    let rivalNameSelector = '.css-19jh306'
-    let matchResultSelector = '.css-1bonmw0';
-    let finalScoreSelector = '.css-sixl46';
-    let checkboxSelector = '.autoPlay';
-    let topBarLeftSelector = '.css-1y3ojfh';
 
     let autoMode = false;
 
