@@ -9,3 +9,7 @@ Automatic play for Ephere game
 5. Refresh Ephere's tab if you had it already opened.
 6. After clicking Play in Ephere, you should see the toggle switch in the middle of the top bar.
 7. Enjoy!
+
+# Screenshot
+
+![](screenshot.png)
